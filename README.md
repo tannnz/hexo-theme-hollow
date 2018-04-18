@@ -1,3 +1,8 @@
+# 调整此博客主图
+
+
+# 以下是原主题信息
+----
 # Hexo-theme-hollow
 
 一款极致简洁的博客主题 😉 可访问[我的博客](http://www.chen9.info/fragment/)查看实际效果
