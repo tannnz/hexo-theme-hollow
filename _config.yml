@@ -1,14 +1,15 @@
 # Default post title
-default_post_title: Halo
+# 默认文章标题
+default_post_title: 没有标题
 
-#Date Format
-date_format: 2018 年 4 月 1 日
+# Date Format
+# 文章时间戳格式
+date_format: YYYY/MM/DD
 
-# Comment. 
+# Comment 
+# 填写 disqus_shortname 即可使用 disqus
 comments:
-  # Disqus comment
   disqus_shortname: 
 
 # Google Analytics Tracking ID
 google_analytics: 
- 
